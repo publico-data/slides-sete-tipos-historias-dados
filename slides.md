@@ -120,3 +120,63 @@ layout: quote
 <a href="https://fivethirtyeight.com/features/how-the-golden-state-warriors-are-breaking-the-nba/" target="_blank" rel="noopener noreferrer">
     <img src="/static/warriors.png" alt="">
 </a>
+---
+layout: cover
+background: https://images.unsplash.com/photo-1549899615-ef2899a8c02d?auto=format&fit=crop&q=80&w=3064&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+---
+<a href="https://www.publico.pt/rankings-escolas-2019/sucesso-escolar-quatro-concelhos-contra-mare" target="_blank" rel="noopener noreferrer">
+<h1><em>Scrollers</em>, <em>trackers</em>, simuladores</h1>
+</a>
+---
+layout: cover
+background: /static/25abril.png
+---
+<a href="https://www.publico.pt/interactivo/ditadura-democracia-portugal" target="_blank" rel="noopener noreferrer">
+<h1><em>Scroller</em></h1>
+</a>
+---
+layout: quote
+---
+<a href="https://pudding.cool/2018/08/pockets/" target="_blank" rel="noopener noreferrer">
+    <img src="/static/pockets.png" alt="">
+</a>
+
+---
+layout: cover
+background: https://static.publicocdn.com/files/vacina-covid-19/img/cover.jpg
+---
+<a href="https://www.publico.pt/interactivo/vacina-covid-19" target="_blank" rel="noopener noreferrer">
+<h1><em>Tracker</em></h1>
+</a>
+---
+layout: quote
+---
+<a href="https://www.washingtonpost.com/graphics/investigations/police-shootings-database/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XWTJYNUPFVDJ5BBAV5DJEFBV5E.jpg&w=1200" alt="">
+</a>
+---
+layout: cover
+background: https://www.publico.pt/interactivos/simulador-congelamento-prestacao-credito-habitacao/_app/immutable/assets/dinheiro_congelado-a2e549d7.gif
+---
+<a href="https://www.publico.pt/interactivos/simulador-congelamento-prestacao-credito-habitacao/" target="_blank" rel="noopener noreferrer">
+<h1><em>Simulador</em></h1>
+</a>
+---
+layout: quote
+---
+<a href="https://www.ft.com/content/95745636-2d21-46aa-b0f1-6bda1c0fdd0b" target="_blank" rel="noopener noreferrer">
+    <img src="/static/FT.png" alt="">
+</a>
+---
+layout: cover
+background: https://imagens.publico.pt/imagens.aspx/1815872?tp=UH&db=IMAGENS&type=PNG
+---
+<a href="https://www.publico.pt/interactivos/faca-seu-ranking/" target="_blank" rel="noopener noreferrer">
+<h1><em>News Applications</em></h1>
+</a>
+---
+layout: quote
+---
+<a href="https://projects.propublica.org/chicken/" target="_blank" rel="noopener noreferrer">
+    <img src="https://static.propublica.org/rails/assets/chicken/social-template-poultry_Facebook-8706be108eb666f0658ae1590169dd2605c85f4ba3a505610e3fba7ef6df4f86.png" alt="">
+</a>
