@@ -65,7 +65,7 @@ background: https://static.publicocdn.com/files/seca-2022/img/vilarinho-de-negro
 layout: quote
 ---
 <a href="https://www.theguardian.com/world/ng-interactive/2022/oct/31/mapping-irans-unrest-how-mahsa-aminis-death-led-to-nationwide-protests" target="_blank" rel="noopener noreferrer">
- <img src="static/iran_protests.png" alt="">
+ <img src="/static/iran_protests.png" alt="">
 </a>
 
 ---
@@ -79,7 +79,7 @@ background: /static/tempo_util.png
 layout: quote
 ---
 <a href="https://www.eldiario.es/economia/desigualdad-aumenta-enriquecieron-recuperacion-economica_1_1741457.html" target="_blank" rel="noopener noreferrer">
-    <img src="static/masricos.PNG" alt="">
+    <img src="/static/masricos.PNG" alt="">
 </a>
 ---
 layout: cover
@@ -92,7 +92,7 @@ background: /static/temperatura_mar.png
 layout: quote
 ---
 <a href="https://www.nytimes.com/interactive/2023/06/17/upshot/17migration-patterns-movers.html" target="_blank" rel="noopener noreferrer">
-    <img src="static/workers.png" alt="">
+    <img src="/static/workers.png" alt="">
 </a>
 ---
 layout: cover
@@ -105,7 +105,7 @@ background: /static/funcionarios_publicos.png
 layout: quote
 ---
 <a href="https://fivethirtyeight.com/features/gun-deaths/" target="_blank" rel="noopener noreferrer">
-    <img src="static/guns.png" alt="">
+    <img src="/static/guns.png" alt="">
 </a>
 ---
 layout: cover
@@ -118,7 +118,7 @@ background: /static/escolas.png
 layout: quote
 ---
 <a href="https://fivethirtyeight.com/features/how-the-golden-state-warriors-are-breaking-the-nba/" target="_blank" rel="noopener noreferrer">
-    <img src="static/warriors.png" alt="">
+    <img src="/static/warriors.png" alt="">
 </a>
 ---
 layout: cover
@@ -138,7 +138,7 @@ background: /static/25abril.png
 layout: quote
 ---
 <a href="https://pudding.cool/2018/08/pockets/" target="_blank" rel="noopener noreferrer">
-    <img src="static/pockets.png" alt="">
+    <img src="/static/pockets.png" alt="">
 </a>
 
 ---
@@ -165,7 +165,7 @@ background: https://www.publico.pt/interactivos/simulador-congelamento-prestacao
 layout: quote
 ---
 <a href="https://www.ft.com/content/95745636-2d21-46aa-b0f1-6bda1c0fdd0b" target="_blank" rel="noopener noreferrer">
-    <img src="static/FT.png" alt="">
+    <img src="/static/FT.png" alt="">
 </a>
 ---
 layout: cover
