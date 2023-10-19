@@ -104,7 +104,7 @@ background: /static/funcionarios_publicos.png
 ---
 layout: quote
 ---
-<a href="https://www.nytimes.com/interactive/2023/climate/extreme-summer-heat.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://static01.nyt.com/images/2017/07/28/climate/more-frequent-extreme-summer-heat-1501197187869/more-frequent-extreme-summer-heat-1501197187869-superJumbo-v7.gif" alt="">
+<a href="https://fivethirtyeight.com/features/gun-deaths/" target="_blank" rel="noopener noreferrer">
+    <img src="/static/guns.png" alt="">
 </a>
 
