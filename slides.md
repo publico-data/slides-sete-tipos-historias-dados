@@ -79,7 +79,7 @@ background: /static/tempo_util.png
 layout: quote
 ---
 <a href="https://www.eldiario.es/economia/desigualdad-aumenta-enriquecieron-recuperacion-economica_1_1741457.html" target="_blank" rel="noopener noreferrer">
-    <img src="/static/masricos.PNG" alt="">
+    <img src="/static/masricos.png" alt="">
 </a>
 ---
 layout: cover
@@ -169,7 +169,7 @@ layout: quote
 </a>
 ---
 layout: cover
-background: https://imagens.publico.pt/imagens.aspx/1815872?tp=UH&db=IMAGENS&type=PNG
+background: https://imagens.publico.pt/imagens.aspx/1815872?tp=UH&db=IMAGENS&type=png
 ---
 <a href="https://www.publico.pt/interactivos/faca-seu-ranking/" target="_blank" rel="noopener noreferrer">
 <h1><em>News Applications</em></h1>
