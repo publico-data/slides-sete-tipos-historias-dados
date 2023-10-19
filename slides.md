@@ -91,8 +91,8 @@ background: /static/temperatura_mar.png
 ---
 layout: quote
 ---
-<a href="https://www.nytimes.com/interactive/2023/climate/extreme-summer-heat.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://static01.nyt.com/images/2017/07/28/climate/more-frequent-extreme-summer-heat-1501197187869/more-frequent-extreme-summer-heat-1501197187869-superJumbo-v7.gif" alt="">
+<a href="https://www.nytimes.com/interactive/2023/06/17/upshot/17migration-patterns-movers.html" target="_blank" rel="noopener noreferrer">
+    <img src="/static/workers.png" alt="">
 </a>
 ---
 layout: cover
@@ -107,4 +107,16 @@ layout: quote
 <a href="https://fivethirtyeight.com/features/gun-deaths/" target="_blank" rel="noopener noreferrer">
     <img src="/static/guns.png" alt="">
 </a>
-
+---
+layout: cover
+background: /static/escolas.png
+---
+<a href="https://www.publico.pt/rankings-escolas-2019/sucesso-escolar-quatro-concelhos-contra-mare" target="_blank" rel="noopener noreferrer">
+<h1>Outliers</h1>
+</a>
+---
+layout: quote
+---
+<a href="https://fivethirtyeight.com/features/how-the-golden-state-warriors-are-breaking-the-nba/" target="_blank" rel="noopener noreferrer">
+    <img src="/static/warriors.png" alt="">
+</a>
