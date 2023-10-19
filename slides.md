@@ -64,6 +64,47 @@ background: https://static.publicocdn.com/files/seca-2022/img/vilarinho-de-negro
 ---
 layout: quote
 ---
-<a href="https://www.propublica.org/article/toxmap-poison-in-the-air" target="_blank" rel="noopener noreferrer">
-    <video src="https://assets-d.propublica.org/v5/video/20211025_natoverview_lead_16x9.mp4" autoplay muted ></video>
+<a href="https://www.theguardian.com/world/ng-interactive/2022/oct/31/mapping-irans-unrest-how-mahsa-aminis-death-led-to-nationwide-protests" target="_blank" rel="noopener noreferrer">
+ <img src="/static/iran_protests.png" alt="">
 </a>
+
+---
+layout: cover
+background: /static/tempo_util.png
+---
+<a href="https://www.publico.pt/2023/09/13/desporto/noticia/jogos-i-liga-duram-tempo-joga-2063204" target="_blank" rel="noopener noreferrer">
+<h1>Contraste</h1>
+</a>
+---
+layout: quote
+---
+<a href="https://www.eldiario.es/economia/desigualdad-aumenta-enriquecieron-recuperacion-economica_1_1741457.html" target="_blank" rel="noopener noreferrer">
+    <img src="/static/masricos.PNG" alt="">
+</a>
+---
+layout: cover
+background: /static/temperatura_mar.png
+---
+<a href="https://www.publico.pt/2023/08/18/azul/noticia/costa-portuguesa-quente-escapa-vaga-calor-atlantico-norte-2060522" target="_blank" rel="noopener noreferrer">
+<h1>Intersecções</h1>
+</a>
+---
+layout: quote
+---
+<a href="https://www.nytimes.com/interactive/2023/climate/extreme-summer-heat.html" target="_blank" rel="noopener noreferrer">
+    <img src="https://static01.nyt.com/images/2017/07/28/climate/more-frequent-extreme-summer-heat-1501197187869/more-frequent-extreme-summer-heat-1501197187869-superJumbo-v7.gif" alt="">
+</a>
+---
+layout: cover
+background: /static/funcionarios_publicos.png
+---
+<a href="https://www.publico.pt/interactivo/funcao-publica-portugal" target="_blank" rel="noopener noreferrer">
+<h1>Fatias de um todo</h1>
+</a>
+---
+layout: quote
+---
+<a href="https://www.nytimes.com/interactive/2023/climate/extreme-summer-heat.html" target="_blank" rel="noopener noreferrer">
+    <img src="https://static01.nyt.com/images/2017/07/28/climate/more-frequent-extreme-summer-heat-1501197187869/more-frequent-extreme-summer-heat-1501197187869-superJumbo-v7.gif" alt="">
+</a>
+
